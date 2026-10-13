@@ -1,0 +1,51 @@
+Dos Commands: to interact directly with a computer's OS through a text-based CLI instead of a graphical mouse and window layout
+cd \  : The command to go to root directory
+mkdir directoryname :It is used to create directory
+dir : It is used to list the directories
+cd directoryname : It is used to navigate from one directory to other directory
+cd .. : To go back to the parent directory (one level up)
+
+Syntax to create a class:
+
+class <classname>{
+  // Variables or fields or attributes or properties
+  // methods
+
+}
+eg: 
+class Employee{
+   //main method**
+
+}
+
+JDK(Java Development Kit) is a software that holds all the tools to run a java program. 
+JDK has Development tools and JRE
+Inside JRE it has JVM and Libraries set
+=> Development tools : Javadoc, debugger, Compiler
+The purpose of Javadoc - to automatically generate standardized, professional API documentation in HTML format directly from Java source code.
+Debugger - we will use breakpoints and go through the code to see what the data holds
+Java Compiler(javac): It is a part of development tools. It checks the syntax (eg: types of brackets, closing of line of code (;),keywords ..etc)
+
+javac command tells the compiler to compile specified java file.
+eg: javac Employee.java
+
+Compiler Uses: 
+=> It helps us to detect syntactical errors and we can fix them. and then generates .class which has bytecode.
+=> this byte is platform independent. It means i can be execute on any platform.
+
+.class files can be archived together as a package or jar file and can be released into production.
+jar and war files difference 
+
+Data types supported by Java:
+
+1. Primitive types:
+   -> numbers,char,decimal values can be stored in primitive types
+   *** Java Supports 8 primitive data types.
+  //Numeric types without decimals
+   byte - 1 byte or 8 bits
+   short - 2 
+
+   
+
+
+
