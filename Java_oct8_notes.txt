@@ -1,0 +1,54 @@
+1. Program - set of instructions
+2. Program can be written in multiple coding languages.
+3. we write/code a program to perform a specific task
+Each language has unique programming style.
+Paradigms: means Programming style
+They are : 
+1) Object Oriented Programming (OOP) - Java(not fully OOP), C++,Python
+2) Procedure Oriented Programming Language - COBOL
+3) Functional Programming
+4) strongly typed language. i.e, declaration of variables with data types is must.
+Java follows all the above but mostly it follows OOP.
+
+Core Java
+-----------
+//packages
+-java.lang
+-java.io
+-java.util
+
+//Java Basics
+ -> datatypes, Variables,tokens(keywords),
+ -> *control flow - (if,for,while,do while,switch case,continue,break)
+ -> * methods (with arguments, without arguments,with or with out return type)
+
+OOP Principles
+- Inheritance,abstraction,polymorphism,encapsulation, Association, aggregation, composition.
+
+Console Based Project need to be done.
+
+Exception Handling **
+
+File Handling
+ two types of files
+ - Char (eg: files with text data)
+ - Byte (eg: files with binary data,objects, videos, audio)
+
+Java Program:
+1. Write the code in Java. (source code)
+2. Code Compilation by Java Compiler. (Compiled code is called Bytecode)
+3. Convert the bytecode to machine understandable code. (JVM does this)
+4. Machine Executes the code and gives output
+
+Serialization
+
+Multithreading (deep concept)
+
+Collections Framework (interviewers favourite)
+
+Java Version 8 features (drastic change before and after it)
+  - Functional interfaces
+  - Streams API
+  - Lamda
+
+Java Class Name rules :  Meaningful name or Noun and first letter should be capital  
